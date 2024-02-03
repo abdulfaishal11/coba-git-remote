@@ -3,3 +3,6 @@ body{
     font-family: Georgia;
 }
 
+body p{
+    color:blue;
+}
